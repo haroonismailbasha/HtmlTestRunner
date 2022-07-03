@@ -4,8 +4,6 @@
 [![Pypi link](https://img.shields.io/pypi/v/html-testRunner.svg)](https://pypi.python.org/pypi/html-testRunner)
 [![Travis job](https://img.shields.io/travis/oldani/HtmlTestRunner.svg)](https://travis-ci.org/oldani/HtmlTestRunner)
 
-
-
 HtmlTest runner is a unittest test runner that saves results in a human-readable HTML format.
 
 This Package was inspired by ``unittest-xml-reporting`` and
